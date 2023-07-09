@@ -3,10 +3,7 @@ import React from 'react'
 function App() {
   return (
     <>
-      <div>테스트입니둥</div>
-      <p>문구 추가</p>
-      <p>문구 추가2</p>
-      <p>문구 추가3</p>
+      <h1>h1 텍스트를 추가합니다.</h1>
     </>
   )
 }
